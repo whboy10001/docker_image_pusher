@@ -16,6 +16,7 @@ portainer/portainer-ee:2.39.3
 # redis数据库
 library/redis:8.6.4
 library/redis:7.0.15
-
+# 私有镜像仓库
+library/registry:3.1.1
 
 
