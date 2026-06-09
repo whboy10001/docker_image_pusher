@@ -8,6 +8,15 @@ library/mysql:8.4.9
 library/mysql:8.0.46
 library/mysql:5.7.44
 
+# python
+library/python:3.7.17
+library/python:3.8.20
+library/python:3.9.25
+library/python:3.10.20
+library/python:3.11.15
+library/python:3.12.13
+library/python:3.13.13
+
 # 容器镜像图形管理工具：1.x是旧版。从2.x就分开了ce和be
 portainer/portainer:1.25.0
 portainer/portainer-ce:2.39.3
